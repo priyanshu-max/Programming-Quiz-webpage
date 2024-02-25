@@ -1,3 +1,3 @@
 # Programming Quiz-Webpage
 It is a programming quiz website where users can check their knowledge by giving quiz.
-# Live Link:: https://1programming-quiz.netlify.app/
+# Live Link:: https://programming-qiz.netlify.app/
